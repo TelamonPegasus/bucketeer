@@ -65,6 +65,7 @@ We would ❤️ for you to contribute to Bucketeer and help improve it! Anyone c
 Please follow our contribution guide [here](https://docs.bucketeer.io/contribution-guide/).
 
 Big thanks to all Bucketeer contributors who have helped us since the beginning!
+Send TelamonPegasus's greeting!
 
 <a href="https://github.com/TelamonPegasus"><img src="https://avatars.githubusercontent.com/u/153420857?v=4" title="TelamonPegasus" width="80" height="80"></a>
 <a href="https://github.com/cre8ivejp"><img src="https://avatars.githubusercontent.com/u/2486691?v=4" title="cre8ivejp" width="80" height="80"></a>
