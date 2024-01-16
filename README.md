@@ -66,10 +66,10 @@ Please follow our contribution guide [here](https://docs.bucketeer.io/contributi
 
 Big thanks to all Bucketeer contributors who have helped us since the beginning!
 
+<a href="https://github.com/TelamonPegasus"><img src="https://avatars.githubusercontent.com/u/153420857?v=4" title="TelamonPegasus" width="80" height="80"></a>
 <a href="https://github.com/cre8ivejp"><img src="https://avatars.githubusercontent.com/u/2486691?v=4" title="cre8ivejp" width="80" height="80"></a>
 <a href="https://github.com/kentakozuka"><img src="https://avatars.githubusercontent.com/u/16733673?v=4" title="kentakozuka" width="80" height="80"></a>
 <a href="https://github.com/ono-max"><img src="https://avatars.githubusercontent.com/u/59436572?v=4" title="ono-max" width="80" height="80"></a>
-<a href="https://github.com/masaaania"><img src="https://avatars.githubusercontent.com/u/2755429?v=4" title="masaaania" width="80" height="80"></a>
 <a href="https://github.com/gkuga"><img src="https://avatars.githubusercontent.com/u/33643470?v=4" title="gkuga" width="80" height="80"></a>
 <a href="https://github.com/mura-s"><img src="https://avatars.githubusercontent.com/u/4702673?v=4" title="mura-s" width="80" height="80"></a>
 <a href="https://github.com/asukaleido"><img src="https://avatars.githubusercontent.com/u/1432458?v=4" title="asukaleido" width="80" height="80"></a>
