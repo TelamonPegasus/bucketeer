@@ -27,7 +27,7 @@ require (
 	github.com/mna/redisc v1.4.0
 	github.com/nicksnyder/go-i18n/v2 v2.2.2
 	github.com/prometheus/client_golang v1.18.0
-	github.com/slack-go/slack v0.12.2
+	github.com/slack-go/slack v0.12.5
 	github.com/stretchr/testify v1.8.4
 	github.com/tkuchiki/go-timezone v0.2.2
 	go.opencensus.io v0.24.0
